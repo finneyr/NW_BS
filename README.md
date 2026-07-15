@@ -475,21 +475,20 @@ A versioned release corresponding to a manuscript should preferably be archived 
 When using `nw_bs`, cite the associated publication or repository release:
 
 ```text
-[Citation to be added]
+This needs to be updated upon publication of the paper that this program was implmented for.
 ```
 
 ## License
 
-Add the selected software license here.
-
-A permissive license such as MIT, BSD-2-Clause, or BSD-3-Clause is often suitable for a small research utility, subject to institutional requirements.
+This is written by National Cancer Institute employee so is public domain.  No waranties, guarantees, etc.  Use at your own risk.
+ 
 
 ## Author
 
 ```text
-[Author name]
-[Institution]
-[Contact information]
+Richard Finney
+CCBR, National Cancer Institute, National Istitutes of Health, Bethesda, Maryland, USA 
+ 
 ```
 
 ## Disclaimer
